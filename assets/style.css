@@ -7,8 +7,9 @@ body{
     font-weight: 900;
 }
 
+
 .bottomnavbar{  
-    height: 100px;
+    height: 80px;
     border-radius: 25px 25px 0px 0px;
     overflow: hidden;
 
@@ -31,4 +32,6 @@ box-shadow: 50px 25px 100px 10px rgba(30, 199, 202, 0.386);
     align-self: center;
     margin: 10px 10px 10px 20px;
 }
+
+
 
